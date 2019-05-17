@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 
 # https://www.learnpython.org/en/Variables_and_Types
 # The target of this exercise is to create a string, 
