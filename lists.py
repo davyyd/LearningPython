@@ -11,3 +11,25 @@
 # the second name in the names list, using the brackets operator []. 
 # Note that the index is zero-based, so if you want to access the 
 # second item in the list, its index will be 1.
+
+numbers = []
+strings = []
+names = ["John", "Eric", "Jessica"]
+second_name = None
+
+numbers.append (1)
+numbers.append (2)
+numbers.append (3)
+
+strings.append ("hello")
+strings.append ("world")
+
+second_name = names[1]
+
+print ("Numbers:")
+print (numbers)
+
+print ("Strings:")
+print (strings)
+
+print ("The second name is %s" % second_name)
